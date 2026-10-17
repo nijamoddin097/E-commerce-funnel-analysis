@@ -81,6 +81,7 @@ E-commerce-funnel-analysis/
 ├── data/
 │   ├── raw/
 │   └── cleaned/
+
 └── images/
     ├── Acquisition & Funnel page.png
     ├── Executive overview.png
@@ -98,5 +99,4 @@ Dataset redistribution permissions and file-size constraints should be checked b
 **Nijamoddin**
 
 GitHub: [nijamoddin097](https://github.com/nijamoddin097)
-
 
