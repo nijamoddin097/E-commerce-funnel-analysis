@@ -36,21 +36,21 @@ The project combines data cleaning, exploratory data analysis, and an interactiv
 ## Power BI Dashboard
 
 ### 1. Executive Overview
-![Executive Overview](images/executive_overview.png)
+![Executive Overview](images/Executive%20overview.png)
 
 This page presents high-level business KPIs, including total revenue, total orders, website sessions, and conversion rate. It also displays monthly revenue trends, monthly order volume, and net profit by product.
 
 
 
 ### 2. Acquisition & Funnel Analysis
-![Acquisition and Funnel Analysis](images/acquisition_funnel.png)
+![Acquisition and Funnel Analysis](images/Acquisition%20%26%20Funnel%20page.png)
 
 This page compares acquisition-channel conversion rates, visualizes the website purchase funnel, examines product-detail-to-cart progression, and compares new and returning visitor sessions.
 
 
 
 ### 3. Product Performance & Profitability
-![Product Performance and Profitability](images/product_performance.png)
+![Product Performance and Profitability](images/Product%20Performance%20page%20.png)
 
 This page compares revenue by product, profit margin, order volume by product, and revenue versus net profit to help assess product-level business performance.
 
