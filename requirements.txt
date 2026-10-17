@@ -1,0 +1,11 @@
+# Core data analysis libraries
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+# Statistics
+Sklearn library 
+# Jupyter notebook support
+ipykernel
