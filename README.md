@@ -84,7 +84,6 @@ E-commerce-funnel-analysis/
 ├── data/
 │   ├── raw/
 │   └── cleaned/
-
 └── images/
     ├── Acquisition & Funnel page.png
     ├── Executive overview.png
